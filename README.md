@@ -6,7 +6,7 @@ by [@tomastrajan](https://twitter.com/tomastrajan)
  [![Twitter Follow](https://img.shields.io/twitter/follow/tomastrajan.svg?style=social&label=Follow)](https://twitter.com/tomastrajan)
 
 
-![intro](https://raw.githubusercontent.com/tomastrajan/angular-ngrx-material-starter/master/meta-assets/intro.png)
+![intro](https://github.com/guidebee/angular-ngrx-material-starter/blob/master/meta-assets/intro.png)
 ![themes](https://raw.githubusercontent.com/tomastrajan/angular-ngrx-material-starter/master/meta-assets/themes.png)
 
 ## Table of Content
