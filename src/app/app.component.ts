@@ -37,7 +37,8 @@ export class AppComponent implements OnInit {
   navigation = [
     { link: 'about', label: 'anms.menu.about' },
     { link: 'features', label: 'anms.menu.features' },
-    { link: 'examples', label: 'anms.menu.examples' }
+    { link: 'examples', label: 'anms.menu.examples' },
+    { link: 'react', label: 'anms.menu.react' }
   ];
   navigationSideMenu = [
     ...this.navigation,

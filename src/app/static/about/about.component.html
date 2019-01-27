@@ -12,6 +12,13 @@
         <a mat-raised-button class="actions-main" color="warn" routerLink="../settings" [ngClass]="routeAnimationsElements">
           {{ 'anms.about.change-theme' | translate }}
         </a>
+        <a mat-raised-button
+           class="actions-main"
+           color="error"
+           routerLink="../react/gdp"
+           [ngClass]="routeAnimationsElements">
+          {{ 'anms.menu.react' | translate }}
+        </a>
         <br>
         <span [ngClass]="routeAnimationsElements">{{ 'anms.about.check-blogs' | translate }}</span>
         <br>
@@ -275,6 +282,13 @@
   <a class="contributor" href="http://www.carlintveld.nl" target="_blank">
     <img src="https://avatars2.githubusercontent.com/u/6196260?v=4">
     <span>Carl in 't Veld</span>
+  </a>
+
+  <a class="contributor"
+     href="http://www.guidebee.com.au"
+     target="_blank">
+    <img src="https://avatars2.githubusercontent.com/u/1016338?v=4">
+    <span>James Shen</span>
   </a>
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 

@@ -19,6 +19,10 @@ const routes: Routes = [
     loadChildren: 'app/examples/examples.module#ExamplesModule'
   },
   {
+    path: 'react',
+    loadChildren: 'app/react-demo/react-demo.module#ReactDemoModule'
+  },
+  {
     path: '**',
     redirectTo: 'about'
   }
